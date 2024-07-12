@@ -1,0 +1,5 @@
+tijeras 10 1.0
+cuaderno 20 2.5
+clips 50 3.0
+lapiz  40 0.5
+esfero  50 0.6
